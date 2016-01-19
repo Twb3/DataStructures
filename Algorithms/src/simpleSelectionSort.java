@@ -5,6 +5,8 @@ import java.util.Arrays;
  *
  * Simple selection sort.
  *
+ * Worst case: O(n^2)
+ *
  */
 public class simpleSelectionSort {
     public static void main(String[] args) {
